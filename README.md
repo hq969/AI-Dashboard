@@ -23,7 +23,7 @@ AI-Dashboard is a **full-stack application** that provides:
 🎥 **Demo Video:** [Watch on YouTube](#) *(Upload a demo link if available)*  
 🖥️ **Live Preview:** [View Online](#) *(Add a deployed version link if available)*  
 
-![Dashboard Preview](https://via.placeholder.com/800x400?text=AI-Dashboard+Preview)  
+![Dashboard Preview](https://cdn.dribbble.com/users/257709/screenshots/16469084/media/b98e46e3ce379b4bd4c4896fc49835d0.png?resize=700x525&vertical=center)  
 
 ---
 
