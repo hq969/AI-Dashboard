@@ -18,15 +18,15 @@
 
 ## 📌 Project Structure
 
-📂 AI-Dashboard 
+📂 **AI-Dashboard** 
 
-┣ 📂 client # Frontend (React.js) 
+┣ 📂 **client # Frontend** (React.js) 
 
-┃ ┣ 📂 public # Static files (index.html, favicon, etc.) 
+┃ ┣ 📂 **public # Static files** (index.html, favicon, etc.) 
 
-┃ ┣ 📂 src # React source code 
+┃ ┣ 📂 src # **React source code** 
 
-┃ ┃ ┣ 📂 components # UI components 
+┃ ┃ ┣ 📂 **components # UI components** 
 
 ┃ ┃ ┃ ┣ 📜 Dashboard.js # Real-time KPIs UI 
 
